@@ -5,4 +5,5 @@ import org.openqa.selenium.By;
 public class AddProduct {
   public static By lnkProduct = By.xpath("//*[@id='tdb2']/span[2]");
   
+
 }
